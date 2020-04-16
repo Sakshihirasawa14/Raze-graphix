@@ -1,0 +1,124 @@
+body{
+    background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+    background-size: cover;
+}
+.no{
+    background-image: url(front1.jpg);
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+   text-align: right;
+    padding-top:2em;   
+}
+.a1{
+     color:aliceblue;
+    margin-right:1em;
+}
+.a2{    
+    color:aliceblue;
+    margin-right:1em;
+}
+.navbar{
+  background-color: transparent !important;
+    background-image: url(front2.jpg);
+     background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    font-weight:600;
+    font-size: 18px;
+}
+
+
+
+
+#navigation{
+	width:100%;
+	background-image: url(frontb.jpg);
+	float:left;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    font-size: 20px;	
+}
+
+
+
+#navigation a{
+    color: white;
+}
+
+.image{
+      background-position: center;
+  background-repeat: no-repeat;
+ 
+    
+    
+}
+.container-fluid{
+    width:99%;
+}
+
+.card1{
+    text-align: center;
+    background-color:#3cbbb4;
+    margin:2em;
+    border: 3px ;
+   
+}
+.card2{
+    text-align: center;
+    background-color:#f79a3d;
+    margin:2em;
+    border: 3px ;
+   
+}
+.card3{
+    text-align: center;
+    background-color:#ed443d;
+    margin:2em;
+    border: 3px ;
+}
+.card4{
+    text-align: center;
+    background-color:#7db979;
+    margin:2em;
+    border: 3px ;
+}
+
+.card-text{
+	color: white;
+}
+
+.card1 .card-title{
+	color:darkcyan;
+}
+.card2 .card-title{
+	color:red;
+}
+.card3 .card-title{
+	color:yellow;
+}
+.card4 .card-title{
+	color:darkcyan;
+}
+
+footer{
+	background-image: url(footer.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	padding-top: 3em;
+	padding-bottom: 6em;
+}
+
+ .copyright{
+	 position: absolute;
+  top: 60px;
+  
+  
+	}
+
